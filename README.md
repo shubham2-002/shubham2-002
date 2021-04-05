@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham2-002
+- 👋 Hi, I’m @Shubham
 - 👀 I’m interested in fornt end devlopment & android
 - 🌱 I’m currently learning c,c++,html,css,javascript
 - 💞️ I’m looking to collaborate on ...
